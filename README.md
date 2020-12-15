@@ -1,10 +1,10 @@
 # time-series-sarimax
 
-<strong>Predicción de ventas y detección de anomalías en tiempos de COVID-19 usando datos del mercado de valores y de la prensa internacional</strong>
+<strong>Sales prediction and anomaly detection in times of COVID-19 using data from the stock market and the international press</strong>
 
-Máster en Business Analytics y Big Data (2019 - 2020)
+Master in Business Analytics & Big Data (2019 - 2020)
 
-Trabajo Fin de Máster
+Final Master's Project
 
 Link to IPython:
 https://nbviewer.jupyter.org/github/scsbigdata/time-series-sarimax/blob/main/time-series-sarimax.ipynb
